@@ -1,0 +1,38 @@
+/*****Element Selectors****/
+
+body {
+  background-color: #EAF6F6;
+}
+hr {
+  background-color: white;
+  border-style: none;
+  border-color: grey;
+  border-width: 5px;
+  border-top-style: dotted;
+  height: 0px;
+  width: 10%
+
+}
+
+h3 {
+  color: #66BFBF
+}
+img{
+
+  width:200px;
+  height:200px;
+}
+
+/*****Class Selectors****/
+.index {
+  color: #66BFBF
+}
+
+.contact {
+  color: black
+}
+
+/*****Id Selectors****/
+#education {
+  color: blue;
+}
