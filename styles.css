@@ -15,7 +15,8 @@ hr {
 }
 
 h3 {
-  color: #66BFBF
+  color: #66BFBF;
+
 }
 img{
 
@@ -25,7 +26,8 @@ img{
 
 /*****Class Selectors****/
 .index {
-  color: #66BFBF
+  color: #66BFBF;
+    padding-bottom: -10px;
 }
 
 .contact {
@@ -34,5 +36,5 @@ img{
 
 /*****Id Selectors****/
 #education {
-  color: blue;
+  color: #66BFBF;
 }
